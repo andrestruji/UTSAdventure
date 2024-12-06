@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|c:\\unityprojetstomas\\menuutsadventure\\assets\\mostrardialogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|solutionrelative:assets\\mostrardialogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|C:\\UnityProjetsTomas\\MenuUTSAdventure\\assets\\caminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|solutionrelative:assets\\caminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|C:\\UnityProjetsTomas\\MenuUTSAdventure\\assets\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|solutionrelative:assets\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|C:\\UnityProjetsTomas\\MenuUTSAdventure\\assets\\funtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|solutionrelative:assets\\funtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|C:\\UnityProjetsTomas\\MenuUTSAdventure\\assets\\funcioncaminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|solutionrelative:assets\\funcioncaminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|C:\\UnityProjetsTomas\\MenuUTSAdventure\\assets\\camaraseguidora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03BD4A33-0F6D-9D9E-3086-9DAE634D3A54}|Assembly-CSharp.csproj|solutionrelative:assets\\camaraseguidora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MostrarDialogos.cs",
+              "DocumentMoniker": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\MostrarDialogos.cs",
+              "RelativeDocumentMoniker": "Assets\\MostrarDialogos.cs",
+              "ToolTip": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\MostrarDialogos.cs",
+              "RelativeToolTip": "Assets\\MostrarDialogos.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:58:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Caminar.cs",
+              "DocumentMoniker": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\Caminar.cs",
+              "RelativeDocumentMoniker": "Assets\\Caminar.cs",
+              "ToolTip": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\Caminar.cs",
+              "RelativeToolTip": "Assets\\Caminar.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:41:26.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CamaraSeguidora.cs",
+              "DocumentMoniker": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\CamaraSeguidora.cs",
+              "RelativeDocumentMoniker": "Assets\\CamaraSeguidora.cs",
+              "ToolTip": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\CamaraSeguidora.cs",
+              "RelativeToolTip": "Assets\\CamaraSeguidora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:07:41.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionCaminar.cs",
+              "DocumentMoniker": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\FuncionCaminar.cs",
+              "RelativeDocumentMoniker": "Assets\\FuncionCaminar.cs",
+              "ToolTip": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\FuncionCaminar.cs",
+              "RelativeToolTip": "Assets\\FuncionCaminar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T18:36:24.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funtion.cs",
+              "DocumentMoniker": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\Funtion.cs",
+              "RelativeDocumentMoniker": "Assets\\Funtion.cs",
+              "ToolTip": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\Funtion.cs",
+              "RelativeToolTip": "Assets\\Funtion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:42:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuScript.cs",
+              "ToolTip": "C:\\UnityProjetsTomas\\MenuUTSAdventure\\Assets\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\MenuScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:21:17.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
